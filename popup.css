@@ -5,3 +5,23 @@
 .notice{
     font-size:16px;
 }
+.toggle-button{
+ background: linear-gradient(135deg, #ff7eb3, #ff758c);
+  color: white;
+  padding: 14px 28px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(255, 117, 140, 0.3);
+  transition: all 0.3s ease;
+  font-family: 'Segoe UI', sans-serif;
+  letter-spacing: 0.5px;
+}
+#blindfoldToggle:hover{
+background: linear-gradient(135deg, #ff5e95, #ff6e7f);
+  transform: scale(1.05);
+  box-shadow: 0 12px 20px rgba(255, 117, 140, 0.4);
+
+}
