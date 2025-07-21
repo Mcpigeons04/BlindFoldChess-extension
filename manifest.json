@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Blindfold Mode for Lichess & Chess.com",
   "version": "1.0",
-  "description": "Toggle blindfold mode by hiding chess pieces on Lichess.",
+  "description": "Toggle complete blindfold mode by hiding chess pieces on Lichess and chess.com!",
   "permissions": [],
 "host_permissions": [
   "*://lichess.org/*",
